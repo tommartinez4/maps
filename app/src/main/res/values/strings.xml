@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SvMaps</string>
+    <string name="title_activity_sv">Sv</string>
+    <string name="title_activity_map_sv">MapSv</string>
+    <string name="title_activity_playas">Playas</string>
+</resources>
